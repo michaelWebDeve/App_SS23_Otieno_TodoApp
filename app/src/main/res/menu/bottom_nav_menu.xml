@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Todo1"
+        android:icon="@drawable/notes_24"
+        android:id="@+id/Todo1"/>
+
+    <item android:title="Todo2"
+        android:icon="@drawable/notes_25"
+        android:id="@+id/Todo2"/>
+
+    <item android:title="Todo3"
+        android:icon="@drawable/notes_26"
+        android:id="@+id/Todo3"/>
+
+    <item android:title="Todo4"
+        android:icon="@drawable/notes_27"
+        android:id="@+id/Todo4"/>
+</menu>
